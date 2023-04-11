@@ -1,0 +1,388 @@
+/* 
+  Localizable.strings
+  ServiceProvider
+
+  Created by mac on 16/03/20.
+  Copyright © 2020 mac. All rights reserved.
+*/
+
+
+"No Internet Connection. Make sure your device is connected to the internet." = "Нет соединения с интернетом. Убедитесь, что ваше устройство подключено к Интернету.";
+
+"OK" = "ОК";
+
+"Loading" = "Загрузка";
+
+"Please Wait!!" = "Пожалуйста, подождите!!";
+
+"Cancel" = "Отмена";
+
+"DATE" = "ДАТА";
+
+"Done" = "Готово";
+
+"Camera" = "Камера";
+
+"Gallery" = "Галерея";
+
+"Yes" = "Да";
+
+"No" = "Нет";
+
+"No data available to show" = "Нет данных для отображения";
+
+"Please enter full name" = "Пожалуйста, введите полное имя";
+
+"Please enter email address" = "Пожалуйста, введите адрес электронной почты";
+
+"Invalid email address" = "Пожалуйста, введите адрес электронной почты";
+
+"Please enter password" = "Пожалуйста, введите пароль";
+
+"Please enter confirm password" = "Пожалуйста, введите подтверждение пароля";
+
+"Password not matched" = "Пароль не совпадает";
+
+"Something went wrong" = "Что-то пошло не так";
+
+"Profile Update Successfully" = "«Обновление профиля успешно»";
+
+"Are you sure you want to log out?" = "Вы уверены, что хотите выйти из системы?";
+
+"Thank You..!! We'll be in touch shortly." = "Спасибо..!! Мы скоро свяжемся с вами.";
+
+"Write some message" = "Написать сообщение";
+
+"Thank you for registration..!!" = "Спасибо за регистрацию..!!!";
+
+"Home" = "Дом";
+
+"Edit Profile" = "Редактировать профиль";
+
+"Change Password" = "Изменить пароль";
+
+"Change Language" = "Изменить язык";
+
+"My Chat" = "Мой чат";
+
+"About us" = "О нас";
+
+"Privacy Policy" = "«Политика конфиденциальности»";
+
+"Terms and Conditions" = "«Правила и условия»";
+
+"Choose Language" = "Выбрать язык";
+
+"Offers" = "Предложения";
+
+"Share APP & Earn" = "«Поделитесь приложением и заработайте»";
+
+"Orders" = "Заказы";
+
+"Rate this App" = "«Оценить это приложение»";
+
+"Help & Support" = "Справка и поддержка";
+
+"Logout" = "Выйти";
+
+"Gift" = "Подарок";
+
+"My Reviews" = "Мои обзоры";
+
+"My Wallet" = "«Мой кошелек»";
+
+"My Earning" = "Мой заработок";
+
+"You have entered wrong email or password" = "Вы ввели неверный адрес электронной почты или пароль";
+
+"Please check your email to reset" = "Пожалуйста, проверьте свою электронную почту для сброса";
+
+"Members" = "Члены";
+
+"Password changed successfully" = "Пароль успешно изменен";
+
+"Please enter message" = "Пароль успешно изменен";
+
+"Login" = "Логин";
+
+"Forgot Password" = "Забыли пароль";
+
+"Sign up" = "Зарегистрироваться";
+
+"My Profile" = "Мой профиль";
+
+"Send message..." = "Отправить сообщение...";
+
+"Write here..." = "Напишите сюда..";
+
+"New password sent to your email." = "Новый пароль отправлен на ваш адрес электронной почты.";
+
+"please enter valid details" = "пожалуйста, введите действительные данные";
+
+"Order Now" = "«Заказать сейчас»";
+
+"Amount" = "Сумма";
+
+"Country" = "Страна";
+
+"Action Code" = "Код действия";
+
+"Currency" = "Валюта";
+
+"Email" = "Электронная почта";
+
+"TrackID" = "Идентификатор дорожки";
+
+"TockenID" = "TokenID";
+
+"Alert" = "Предупреждение";
+
+"Check" = "Проверить";
+
+"Order Id:" = "Идентификатор заказа:";
+
+"NA" = "Н/Д";
+
+"Please check terms and condition" = "Пожалуйста, проверьте условия";
+
+"User Already Exists" = "Пользователь уже существует";
+
+"Please register to continue." = "Пожалуйста, зарегистрируйтесь, чтобы продолжить.";
+
+"Use Code" = "Использовать код";
+
+"The offer is valid from" = "Предложение действует с";
+
+"to" = "к";
+
+"Expire on" = "Срок действия";
+
+"My Address" = "Мой адрес";
+
+"Address Deleted successfully" = "Адрес успешно удален";
+
+"location not found" = "местоположение не найдено";
+
+"Rating added successfully" = "Рейтинг успешно добавлен";
+
+"Restaurant Information" = "«Информация о ресторане»";
+
+"Have not you recieved the code?" = "Вы не получили код?";
+
+"Resend" = "Отправить повторно";
+
+"Remaining time:" = "Оставшееся время:";
+
+"min" = "мин";
+
+"sec" = "сек";
+
+"Incorrect code." = "Неверный код.";
+
+"Incorrect OTP" = "«Неверный одноразовый пароль»";
+
+"For continue you need to accept" = "Для продолжения необходимо принять";
+
+// 14 марта
+
+"Total Cart:" = "Всего в корзине:";
+
+"Order ID:" = "ID заказа:";
+
+"Pre Order ID:" = "Идентификатор предварительного заказа:";
+
+"Completed" = "Завершено";
+
+"My Favourite" = "Мой любимый";
+
+"Offer" = "Предложение";
+
+"Menu" = "Меню";
+
+"Load More" = "Загрузить еще";
+
+"My Cart" = "Загрузить еще";
+
+"Apply Offer" = "Применить предложение";
+
+"Enter email address" = "Введите адрес электронной почты";
+
+"Order Details" = "Детали заказа";
+
+"Order placed successfully" = "Заказ успешно размещен";
+
+"Products" = "Продукты";
+
+"Item Detail" = "Детали товара";
+
+"Phone Number :" = "Номер телефона:";
+
+"Tax Number:" = "Налоговый номер:";
+
+"Your Fee" = "Ваша плата";
+
+"Rate user and finish" = "Оценить пользователя и завершить";
+
+"My Earnings" = "«Мои доходы»";
+
+"Notifications" = "Уведомления";
+
+"Withdraw Wallet Amount" = "Сумма вывода из кошелька";
+
+"Assigned Driver" = "«Назначенный водитель»";
+
+"Give Rating" = "Поставить рейтинг";
+
+"Add Details" = "Добавить детали";
+
+"Pending" = "«В ожидании»";
+
+"Preparing" = "Подготовка";
+
+"Ready" = "Готово";
+
+"Track Order" = "Отследить заказ";
+
+"Rejected" = "Отклонено";
+
+"Not Paid" = "Не оплачено";
+
+"Name" = "«Имя»";
+
+"Address:" = "Адрес:";
+
+"Mobile:" = "Мобильный:";
+
+"Restaurant" = "Ресторан";
+
+"Available Driver" = "«Доступный драйвер»";
+
+"km away" = "км";
+
+"Please select address" = "Выберите адрес";
+
+"Enter your business code" = "Введите код вашей компании";
+
+// Новый
+
+"Time" = "«Время»";
+
+"Find The Perfect Workout Buddy" = "«Найди идеального приятеля по тренировкам»";
+
+"Upload Your Daily Feed" = "«Загрузить свою ежедневную ленту»";
+
+"Buy and Sell Equipment" = "«Купить и продать оборудование»";
+
+"Subscription" = "Подписка";
+
+"Skip" = "Пропустить";
+
+"Next" = "Далее";
+
+"Start" = "Пуск";
+
+"Your account is created successfully, we have sent one confirmation mail to your mail id so please confirm and login in app." = "Ваша учетная запись успешно создана, мы отправили одно письмо с подтверждением на ваш почтовый идентификатор, поэтому, пожалуйста, подтвердите и войдите в приложение.";
+
+"My Feed" = "Моя лента";
+
+"Friends" = "«Друзья»";
+
+"Buddies" = "Друзья";
+
+"Journal Activity" = "Журнальная активность";
+
+"Subscription" = "Подписка";
+
+"Refer Friend" = "Пригласить друга";
+
+"Settings" = "Настройки";
+
+"Blocked Users" = "Заблокированные пользователи";
+
+"Report Users" = "Сообщить о пользователях";
+
+"Find Me" = "Найди меня";
+
+"Who can see your profile" = "Кто может видеть ваш профиль";
+
+"Give Feedback" = "Оставить отзыв";
+
+"Contact Us" = "Свяжитесь с нами";
+
+"Product added successfully" = "Продукт успешно добавлен";
+
+"Product updated successfully" = "Продукт успешно обновлен";
+
+"Are you sure you want to delete this item" = "Вы уверены, что хотите удалить этот элемент";
+
+"Transaction is successfull" = "Транзакция прошла успешно";
+
+"Feedback sent successfully" = "Отзыв успешно отправлен";
+
+"Activity added successfully" = "Активность успешно добавлена";
+
+"Activity updated successfully" = "Активность успешно обновлена";
+
+"Notification" = "Уведомление";
+
+"Reset password mail has sent to your registered mailId" = "Письмо для сброса пароля отправлено на ваш зарегистрированный mailId";
+
+"Invalid Price" = "Неверная цена";
+
+"Update Post" = "Обновить сообщение";
+
+"Delete Account" = "Удалить учетную запись";
+
+"We sent your current password to your mail , please check and login again" = "Мы отправили ваш текущий пароль на вашу почту, пожалуйста, проверьте и войдите снова";
+
+"Are you sure to delete your account?" = "Вы уверены, что хотите удалить свою учетную запись?";
+
+"Are you sure you want to delete your account?" = "Вы уверены, что хотите удалить свою учетную запись?";
+
+"Update Activity" = "Активность обновления";
+
+"Your location is hidden to other users." = "Ваше местоположение скрыто от других пользователей.";
+
+"For continue you need to accept Terms and Conditions" = "Для продолжения вам необходимо принять Условия использования";
+
+"You must agree to our term and condition" = "«Вы должны согласиться с нашими условиями»";
+
+"Blocked Users" = "Заблокированные пользователи";
+
+"Report Users" = "Сообщить о пользователях";
+
+"Send Feedback" = "Отправить отзыв";
+
+"Feedback send successfully" = "Отзыв отправлен успешно";
+
+"Contact Us" = "Свяжитесь с нами";
+
+"Comment" = "Комментарий";
+
+"Comments" = "Комментарии";
+
+"Liked by" = "Понравилось";
+
+"Months" = "«Месяцы»";
+
+"This is your current active plan." = "Это ваш текущий активный план.";
+
+"Your location is hidden to other users." = "Ваше местоположение скрыто от других пользователей.";
+
+"Something went wrong with map" = "Что-то пошло не так с картой";
+
+"Reported to Admin" = "Сообщено администратору";
+
+"Report" = "Отчет";
+
+"Total:" = "Всего:";
+
+"Card in invalid!" = "Карта недействительна!";
+
+"Card is incomplete" = "Карта неполная";
+
+"Photos uploaded successfully" = "Фотографии успешно загружены";
+
+"Post added successfully" = "Post added successfully";
+
+"Post updated successfully" = "Post updated successfully";

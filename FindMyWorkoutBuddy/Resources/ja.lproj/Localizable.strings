@@ -1,0 +1,389 @@
+/* 
+  Localizable.strings
+  ServiceProvider
+
+  Created by mac on 16/03/20.
+  Copyright © 2020 mac. All rights reserved.
+*/
+
+
+"No Internet Connection. Make sure your device is connected to the internet." = "インターネット接続なし。デバイスがインターネットに接続されていることを確認します。";
+
+"OK" = "OK";
+
+"Loading" = "読み込み中";
+
+"Please Wait!!" = "お待ちください!!";
+
+"Cancel" = "キャンセル";
+
+"DATE" = "日付";
+
+"Done" = "完了";
+
+"Camera" = "カメラ";
+
+"Gallery" = "ギャラリー";
+
+"Yes" = "はい";
+
+"No" = "いいえ";
+
+"No data available to show" = "表示できるデータがありません";
+
+"Please enter full name" = "氏名を入力してください";
+
+"Please enter email address" = "メールアドレスを入力してください";
+
+"Invalid email address" = "無効な電子メール アドレス";
+
+"Please enter password" = "パスワードを入力してください";
+
+"Please enter confirm password" = "確認パスワードを入力してください";
+
+"Password not matched" = "パスワードが一致しません";
+
+"Something went wrong" = "何かがうまくいかなかった";
+
+"Profile Update Successfully" = "プロファイルが正常に更新されました";
+
+"Are you sure you want to log out?" = "ログアウトしてもよろしいですか?";
+
+"Thank You..!! We'll be in touch shortly." = "ありがとうございます..!!すぐにご連絡いたします。";
+
+"Write some message" = "メッセージを書く";
+
+"Thank you for registration..!!" = "登録ありがとうございます..!!";
+
+
+"Home" = "ホーム";
+
+"Edit Profile" = "プロフィールを編集";
+
+"Change Password" = "パスワードの変更";
+
+"Change Language" = "言語の変更";
+
+"My Chat" = "マイ チャット";
+
+"About us" = "私たちについて";
+
+"Privacy Policy" = "プライバシー ポリシー";
+
+"Terms and Conditions" = "利用規約";
+
+"Choose Language" = "言語を選択";
+
+"Offers" = "オファー";
+
+"Share APP & Earn" = "アプリを共有して獲得";
+
+"Orders" = "注文";
+
+"Rate this App" = "このアプリを評価";
+
+"Help & Support" = "ヘルプとサポート";
+
+"Logout" = "ログアウト";
+
+"Gift" = "ギフト";
+
+"My Reviews" = "私のレビュー";
+
+"My Wallet" = "私の財布";
+
+"My Earning" = "私の収入";
+
+"You have entered wrong email or password" = "間違った電子メールまたはパスワードを入力しました";
+
+"Please check your email to reset" = "メールを確認してリセットしてください";
+
+"Members" = "メンバー";
+
+"Password changed successfully" = "パスワードが正常に変更されました";
+
+"Please enter message" = "メッセージを入力してください";
+
+"Login" = "ログイン";
+
+"Forgot Password" = "パスワードを忘れた";
+
+"Sign up" = "サインアップ";
+
+"My Profile" = "私のプロフィール";
+
+"Send message..." = "メッセージを送信...";
+
+"Write here..." = "ここに書く...";
+
+"New password sent to your email." = "新しいパスワードがメールに送信されました。";
+
+"please enter valid details" = "有効な詳細を入力してください";
+
+"Order Now" = "今すぐ注文";
+
+"Amount" = "金額";
+
+"Country" = "国";
+
+"Action Code" = "アクション コード";
+
+"Currency" = "通貨";
+
+"Email" = "電子メール";
+
+"TrackID" = "トラックID";
+
+"TockenID" = "トークンID";
+
+"Alert" = "アラート";
+
+"Check" = "チェック";
+
+"Order Id:" = "注文 ID:";
+
+"NA" = "NA";
+
+"Please check terms and condition" = "利用規約を確認してください";
+
+"User Already Exists" = "ユーザーは既に存在します";
+
+"Please register to continue." = "続行するには登録してください。";
+
+"Use Code" = "コードを使用";
+
+"The offer is valid from" = "オファーの有効期限";
+
+"to" = "へ";
+
+"Expire on" = "有効期限";
+
+"My Address" = "私の住所";
+
+"Address Deleted successfully" = "アドレスは正常に削除されました";
+
+"location not found" = "場所が見つかりません";
+
+"Rating added successfully" = "評価が正常に追加されました";
+
+"Restaurant Information" = "レストラン情報";
+
+"Have not you recieved the code? " = "コードを受け取っていませんか? ";
+
+"Resend" = "再送信";
+
+"Remaining time:" = "残り時間:";
+
+"min" = "最小";
+
+"sec" = "秒";
+
+"Incorrect code." = "コードが正しくありません。";
+
+"Incorrect OTP" = "不適切な OTP";
+
+"For continue you need to accept" = "続行するには、同意する必要があります";
+
+// 3月14日
+
+"Total Cart:" = "合計カート:";
+
+"Order ID:" = "注文 ID:";
+
+"Pre Order ID:" = "事前注文 ID:";
+
+"Completed" = "完了";
+
+"My Favourite" = "私のお気に入り";
+
+"Offer" = "オファー";
+
+"Menu" = "メニュー";
+
+"Load More" = "さらに読み込む";
+
+"My Cart" = "マイ カート";
+
+"Apply Offer" = "オファーを適用";
+
+"Enter email address" = "メールアドレスを入力してください";
+
+"Order Details" = "注文の詳細";
+
+"Order placed successfully" = "注文は正常に行われました";
+
+"Products" = "製品";
+
+"Item Detail" = "アイテムの詳細";
+
+"Phone Number :" = "電話番号:";
+
+"Tax Number:" = "税番号:";
+
+"Your Fee" = "あなたの料金";
+
+"Rate user and finish" = "ユーザーを評価して終了";
+
+"My Earnings" = "私の収益";
+
+"Notifications" = "通知";
+
+"Withdraw Wallet Amount" = "ウォレットの金額を引き出す";
+
+"Assigned Driver" = "割り当てられたドライバー";
+
+"Give Rating" = "評価を与える";
+
+"Add Details" = "詳細を追加";
+
+"Pending" = "保留中";
+
+"Preparing" = "準備中";
+
+"Ready" = "準備完了";
+
+"Track Order" = "注文の追跡";
+
+"Rejected" = "却下";
+
+"Not Paid" = "未払い";
+
+"Name" = "名前";
+
+"Address:" = "住所:";
+
+"Mobile:" = "モバイル:";
+
+"Restaurant" = "レストラン";
+
+"Available Driver" = "利用可能なドライバー";
+
+"km away" = "km 離れた";
+
+"Please select address" = "アドレスを選択してください";
+
+"Enter your business code" = "ビジネス コードを入力してください";
+
+// 新しい
+
+"Time" = "時間";
+
+"Find The Perfect Workout Buddy" = "完璧なトレーニング仲間を見つける";
+
+"Upload Your Daily Feed" = "毎日のフィードをアップロード";
+
+"Buy and Sell Equipment" = "機器の売買";
+
+"Subscription" = "サブスクリプション";
+
+"Skip" = "スキップ";
+
+"Next" = "次";
+
+"Start" = "開始";
+
+"Your account is created successfully, we have sent one confirmation mail to your mail id so please confirm and login in app." = "アカウントが正常に作成されました。メール ID に確認メールを 1 通送信しましたので、確認してアプリにログインしてください。";
+
+"My Feed" = "私のフィード";
+
+"Friends" = "友達";
+
+"Buddies" = "仲間";
+
+"Journal Activity" = "ジャーナル活動";
+
+"Subscription" = "サブスクリプション";
+
+"Refer Friend" = "友達を紹介する";
+
+"Settings" = "設定";
+
+"Blocked Users" = "ブロックされたユーザー";
+
+"Report Users" = "ユーザーを報告する";
+
+"Find Me" = "私を見つけてください";
+
+"Who can see your profile" = "あなたのプロフィールを閲覧できる人";
+
+"Give Feedback" = "フィードバックをお願いします";
+
+"Contact Us" = "お問い合わせ";
+
+"Product added successfully" = "製品が正常に追加されました";
+
+"Product updated successfully" = "製品は正常に更新されました";
+
+"Are you sure you want to delete this item" = "このアイテムを削除してもよろしいですか";
+
+"Transaction is successfull" = "トランザクションは成功しました";
+
+"Feedback sent successfully" = "フィードバックは正常に送信されました";
+
+"Activity added successfully" = "アクティビティが正常に追加されました";
+
+"Activity updated successfully" = "アクティビティが正常に更新されました";
+
+"Notification" = "通知";
+
+"Reset password mail has sent to your registered mailId" = "パスワードのリセット メールが登録済みの mailId に送信されました";
+
+"Invalid Price" = "無効な価格";
+
+"Update Post" = "投稿を更新";
+
+"Delete Account" = "アカウントの削除";
+
+"We sent your current password to your mail , please check and login again" = "現在のパスワードをメールに送信しました。確認して再度ログインしてください";
+
+"Are you sure to delete your account?" = "アカウントを削除してもよろしいですか?";
+
+"Are you sure you want to delete your account?" = "アカウントを削除してもよろしいですか?";
+
+"Update Activity" = "アクティビティの更新";
+
+"Your location is hidden to other users." = "あなたの場所は他のユーザーには表示されません。";
+
+"For continue you need to accept Terms and Conditions" = "続行するには利用規約に同意する必要があります";
+
+"You must agree to our term and condition" = "あなたは私たちの利用規約に同意する必要があります";
+
+"Blocked Users" = "ブロックされたユーザー";
+
+"Report Users" = "ユーザーを報告する";
+
+"Send Feedback" = "フィードバックを送信";
+
+"Feedback send successfully" = "フィードバックは正常に送信されました";
+
+"Contact Us" = "お問い合わせ";
+
+"Comment" = "コメント";
+
+"Comments" = "コメント";
+
+"Liked by" = "いいね";
+
+"Months" = "月";
+
+"This is your current active plan." = "これが現在アクティブなプランです。";
+
+"Your location is hidden to other users." = "あなたの場所は他のユーザーには表示されません。";
+
+"Something went wrong with map" = "マップに問題が発生しました";
+
+"Reported to Admin" = "管理者に報告";
+
+"Report" = "レポート";
+
+"Total:" = "合計:";
+
+"Card in invalid!" = "カードが無効です!";
+
+"Card is incomplete" = "カードが不完全です";
+
+"Photos uploaded successfully" = "写真が正常にアップロードされました";
+
+"Post added successfully" = "Post added successfully";
+
+"Post updated successfully" = "Post updated successfully";

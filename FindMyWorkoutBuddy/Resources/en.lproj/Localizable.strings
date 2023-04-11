@@ -1,0 +1,390 @@
+/* 
+  Localizable.strings
+  ServiceProvider
+
+  Created by mac on 16/03/20.
+  Copyright © 2020 mac. All rights reserved.
+*/
+
+"No Internet Connection. Make sure your device is connected to the internet." = "No Internet Connection. Make sure your device is connected to the internet.";
+
+"OK" = "OK";
+
+"Loading" = "Loading";
+
+"Please Wait!!" = "Please Wait!!";
+
+"Cancel" = "Cancel";
+
+"DATE" = "DATE";
+
+"Done" = "Done";
+
+"Camera" = "Camera";
+
+"Gallery" = "Gallery";
+
+"Yes" = "Yes";
+
+"No" = "No";
+
+"No data available to show" = "No data available to show";
+
+"Please enter full name" = "Please enter full name";
+
+"Please enter email address" = "Please enter email address";
+
+"Invalid email address" = "Invalid email address";
+
+"Please enter password" = "Please enter password";
+
+"Please enter confirm password" = "Please enter confirm password";
+
+"Password not matched" = "Password not matched";
+
+"Something went wrong" = "Something went wrong";
+
+"Profile Update Successfully" = "Profile Update Successfully";
+
+"Are you sure you want to log out?" = "Are you sure you want to log out?";
+
+"Thank You..!! We'll be in touch shortly." = "Thank You..!! We'll be in touch shortly.";
+
+"Write some message" = "Write some message";
+
+"Thank you for registration..!!" = "Thank you for registration..!!";
+
+
+
+"Home" = "Home";
+
+"Edit Profile" = "Edit Profile";
+
+"Change Password" = "Change Password";
+
+"Change Language" = "Change Language";
+
+"My Chat" = "My Chat";
+
+"About us" = "About us";
+
+"Privacy Policy" = "Privacy Policy";
+
+"Terms and Conditions" = "Terms and Conditions";
+
+"Choose Language" = "Choose Language";
+
+"Offers" = "Offers";
+
+"Share APP & Earn" = "Share APP & Earn";
+
+"Orders" = "Orders";
+
+"Rate this App" = "Rate this App";
+
+"Help & Support" = "Help & Support";
+
+"Logout" = "Logout";
+
+"Gift" = "Gift";
+
+"My Reviews" = "My Reviews";
+
+"My Wallet" = "My Wallet";
+
+"My Earning" = "My Earning";
+
+"You have entered wrong email or password" = "You have entered wrong email or password";
+
+"Please check your email to reset" = "Please check your email to reset";
+
+"Members" = "Members";
+
+"Password changed successfully" = "Password changed successfully";
+
+"Please enter message" = "Please enter message";
+
+
+"Login" = "Login";
+
+"Forgot Password" = "Forgot Password";
+
+"Sign up" = "Sign up";
+
+"My Profile" = "My Profile";
+
+"Send message..." = "Send message...";
+
+"Write here..." = "Write here...";
+
+"New password sent to your email." = "New password sent to your email.";
+
+"please enter valid details" = "please enter valid details";
+
+"Order Now" = "Order Now";
+
+"Amount" = "Amount";
+
+"Country" = "Country";
+
+"Action Code" = "Action Code";
+
+"Currency" = "Currency";
+
+"Email" = "Email";
+
+"TrackID" = "TrackID";
+
+"TockenID" = "TockenID";
+
+"Alert" = "Alert";
+
+"Check" = "Check";
+
+"Order Id:" = "Order Id:";
+
+"NA" = "NA";
+
+"Please check terms and condition" = "Please check terms and condition";
+
+"User Already Exists" = "User Already Exists";
+
+"Please register to continue." = "Please register to continue.";
+
+"Use Code" = "Use Code";
+
+"The offer is valid from" = "The offer is valid from";
+
+"to" = "to";
+
+"Expire on" = "Expire on";
+
+"My Address" = "My Address";
+
+"Address Deleted successfully" = "Address Deleted successfully";
+
+"location not found" = "location not found";
+
+"Rating added successfully" = "Rating added successfully";
+
+"Restaurant Information" = "Restaurant Information";
+
+"Have not you recieved the code? " = "Have not you recieved the code? ";
+
+"Resend" = "Resend";
+
+"Remaining time:" = "Remaining time:";
+
+"min" = "min";
+
+"sec" = "sec";
+
+"Incorrect code." = "Incorrect code.";
+
+"Incorrect OTP" = "Incorrect OTP";
+
+"For continue you need to accept" = "For continue you need to accept";
+
+// Mar 14
+
+"Total Cart:" = "Total Cart:";
+
+"Order ID:" = "Order ID:";
+
+"Pre Order ID:" = "Pre Order ID:";
+
+"Completed" = "Completed";
+
+"My Favourite" = "My Favourite";
+
+"Offer" = "Offer";
+
+"Menu" = "Menu";
+
+"Load More" = "Load More";
+
+"My Cart" = "My Cart";
+
+"Apply Offer" = "Apply Offer";
+
+"Enter email address" = "Enter email address";
+
+"Order Details" = "Order Details";
+
+"Order placed successfully" = "Order placed successfully";
+
+"Products" = "Products";
+
+"Item Detail" = "Item Detail";
+
+"Phone Number :" = "Phone Number :";
+
+"Tax Number:" = "Tax Number:";
+
+"Your Fee" = "Your Fee";
+
+"Rate user and finish" = "Rate user and finish";
+
+"My Earnings" = "My Earnings";
+
+"Notifications" = "Notifications";
+
+"Withdraw Wallet Amount" = "Withdraw Wallet Amount";
+
+"Assigned Driver" = "Assigned Driver";
+
+"Give Rating" = "Give Rating";
+
+"Add Details" = "Add Details";
+
+"Pending" = "Pending";
+
+"Preparing" = "Preparing";
+
+"Ready" = "Ready";
+
+"Track Order" = "Track Order";
+
+"Rejected" = "Rejected";
+
+"Not Paid" = "Not Paid";
+
+"Name" = "Name";
+
+"Address:" = "Address:";
+
+"Mobile:" = "Mobile:";
+
+"Restaurant" = "Restaurant";
+
+"Available Driver" = "Available Driver";
+
+"km away" = "km away";
+
+"Please select address" = "Please select address";
+
+"Enter your business code" = "Enter your business code";
+
+// New
+
+"Time" = "Time";
+
+"Find The Perfect Workout Buddy" = "Find The Perfect Workout Buddy";
+
+"Upload Your Daily Feed" = "Upload Your Daily Feed";
+
+"Buy and Sell Equipment" = "Buy and Sell Equipment";
+
+"Subscription" = "Subscription";
+
+"Skip" = "Skip";
+
+"Next" = "Next";
+
+"Start" ="Start";
+
+"Your account is created successfully, we have sent one confirmation mail to your mail id so please confirm and login in app." = "Your account is created successfully, we have sent one confirmation mail to your mail id so please confirm and login in app.";
+
+"My Feed" = "My Feed";
+
+"Friends" = "Friends";
+
+"Buddies" = "Buddies";
+
+"Journal Activity" = "Journal Activity";
+
+"Subscription" = "Subscription";
+
+"Refer Friend" = "Refer Friend";
+
+"Settings" = "Settings";
+
+"Blocked Users" = "Blocked Users";
+
+"Report Users" = "Report Users";
+
+"Find Me" = "Find Me";
+
+"Who can see your profile" = "Who can see your profile";
+
+"Give Feedback" = "Give Feedback";
+
+"Contact Us" = "Contact Us";
+
+"Product added successfully" = "Product added successfully";
+
+"Product updated successfully" = "Product updated successfully";
+
+"Are you sure you want to delete this item" = "Are you sure you want to delete this item";
+
+"Transaction is successfull" = "Transaction is successfull";
+
+"Feedback sent successfully" = "Feedback sent successfully";
+
+"Activity added successfully" = "Activity added successfully";
+
+"Activity updated successfully" = "Activity updated successfully";
+
+"Notification" = "Notification";
+
+"Reset password mail has sent to your registered mailId" = "Reset password mail has sent to your registered mailId";
+
+"Invalid Price" = "Invalid Price";
+
+"Update Post" = "Update Post";
+
+"Delete Account" = "Delete Account";
+
+"We sent your current password to your mail , please check and login again" = "We sent your current password to your mail , please check and login again";
+
+"Are you sure to delete your account?" = "Are you sure to delete your account?";
+
+"Are you sure you want to delete your account?" = "Are you sure you want to delete your account?";
+
+"Update Activity" = "Update Activity";
+
+"Your location is hidden to other users." = "Your location is hidden to other users.";
+
+"For continue you need to accept Terms and Conditions" = "For continue you need to accept Terms and Conditions";
+
+"You must agree to our term and condition" = "You must agree to our term and condition";
+
+"Blocked Users" = "Blocked Users";
+
+"Report Users" = "Report Users";
+
+"Send Feedback" = "Send Feedback";
+
+"Feedback send successfully" = "Feedback send successfully";
+
+"Contact Us" = "Contact Us";
+
+"Comment" = "Comment";
+
+"Comments" = "Comments";
+
+"Liked by" = "Liked by";
+
+"Months" = "Months";
+
+"This is your current active plan." = "This is your current active plan.";
+
+"Your location is hidden to other users." = "Your location is hidden to other users.";
+
+"Something went wrong with map" = "Something went wrong with map";
+
+"Reported to Admin" = "Reported to Admin";
+
+"Report" = "Report";
+
+"Total:" = "Total:";
+
+"Card in invalid!" = "Card in invalid!";
+
+"Card is incomplete" = "Card is incomplete";
+
+"Photos uploaded successfully" = "Photos uploaded successfully";
+
+"Post added successfully" = "Post added successfully";
+
+"Post updated successfully" = "Post updated successfully";

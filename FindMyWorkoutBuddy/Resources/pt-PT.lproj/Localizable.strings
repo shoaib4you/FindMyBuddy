@@ -1,0 +1,388 @@
+/* 
+  Localizable.strings
+  ServiceProvider
+
+  Created by mac on 16/03/20.
+  Copyright © 2020 mac. All rights reserved.
+*/
+
+
+"No Internet Connection. Make sure your device is connected to the internet." = "Sem conexão com a Internet. Certifique-se de que seu dispositivo esteja conectado à Internet.";
+
+"OK" = "OK";
+
+"Loading" = "Carregando";
+
+"Please Wait!!" = "Aguarde!!";
+
+"Cancel" = "Cancelar";
+
+"DATE" = "DATA";
+
+"Done" = "Concluído";
+
+"Camera" = "Câmera";
+
+"Gallery" = "Galeria";
+
+"Yes" = "Sim";
+
+"No" = "Não";
+
+"No data available to show" = "Nenhum dado disponível para mostrar";
+
+"Please enter full name" = "Por favor, digite o nome completo";
+
+"Please enter email address" = "Por favor, digite o endereço de e-mail";
+
+"Invalid email address" = "Endereço de e-mail inválido";
+
+"Please enter password" = "Por favor, digite a senha";
+
+"Please enter confirm password" = "Please enter confirm password";
+
+"Password not matched" = "Senha não coincidente";
+
+"Something went wrong" = "Algo deu errado";
+
+"Profile Update Successfully" = "Atualização de perfil com sucesso";
+
+"Are you sure you want to log out?" = "Tem certeza que deseja sair?";
+
+"Thank You..!! We'll be in touch shortly." = "Obrigado..!! Entraremos em contato em breve.";
+
+"Write some message" = "Write some message";
+
+"Thank you for registration..!!" = "Obrigado por se registrar..!!";
+
+"Home" = "Casa";
+
+"Edit Profile" = "Editar perfil";
+
+"Change Password" = "Alterar senha";
+
+"Change Language" = "Alterar idioma";
+
+"My Chat" = "Meu Chat";
+
+"About us" = "Sobre nós";
+
+"Privacy Policy" = "Política de Privacidade";
+
+"Terms and Conditions" = "Termos e Condições";
+
+"Choose Language" = "Escolher idioma";
+
+"Offers" = "Ofertas";
+
+"Share APP & Earn" = "Compartilhar APP e ganhar";
+
+"Orders" = "Pedidos";
+
+"Rate this App" = "Avalie este aplicativo";
+
+"Help & Support" = "Ajuda e suporte";
+
+"Logout" = "Sair";
+
+"Gift" = "Presente";
+
+"My Reviews" = "Meus comentários";
+
+"My Wallet" = "Minha Carteira";
+
+"My Earning" = "Meus ganhos";
+
+"You have entered wrong email or password" = "Você digitou e-mail ou senha incorretos";
+
+"Please check your email to reset" = "Verifique seu e-mail para redefinir";
+
+"Members" = "Membros";
+
+"Password changed successfully" = "Senha alterada com sucesso";
+
+"Please enter message" = "Por favor, digite a mensagem";
+
+"Login" = "Por favor, digite a mensagem";
+
+"Forgot Password" = "Esqueceu a senha";
+
+"Sign up" = "Inscrever-se";
+
+"My Profile" = "Meu perfil";
+
+"Send message..." = "Enviar mensagem...";
+
+"Write here..." = "Escreva aqui...";
+
+"New password sent to your email." = "Nova senha enviada para seu e-mail.";
+
+"please enter valid details" = "por favor insira detalhes válidos";
+
+"Order Now" = "Pedir agora";
+
+"Amount" = "Valor";
+
+"Country" = "País";
+
+"Action Code" = "Código de Ação";
+
+"Currency" = "Moeda";
+
+"Email" = "E-mail";
+
+"TrackID" = "TrackID";
+
+"TockenID" = "TockenID";
+
+"Alert" = "Alerta";
+
+"Check" = "Verificar";
+
+"Order Id:" = "Id do pedido:";
+
+"NA" = "NA";
+
+"Please check terms and condition" = "Verifique os termos e condições";
+
+"User Already Exists" = "Usuário já existe";
+
+"Please register to continue." = "Por favor, registre-se para continuar.";
+
+"Use Code" = "Usar Código";
+
+"The offer is valid from" = "A oferta é válida a partir de";
+
+"to" = "para";
+
+"Expire on" = "Expirar em";
+
+"My Address" = "Meu endereço";
+
+"Address Deleted successfully" = "Endereço excluído com sucesso";
+
+"location not found" = "local não encontrado";
+
+"Rating added successfully" = "Avaliação adicionada com sucesso";
+
+"Restaurant Information" = "Informações do restaurante";
+
+"Have not you recieved the code? " = "Você não recebeu o código? ";
+
+"Resend" = "Reenviar";
+
+"Remaining time:" = "Tempo restante:";
+
+"min" = "min";
+
+"sec" = "seg";
+
+"Incorrect code." = "Código incorreto.";
+
+"Incorrect OTP" = "OTP incorreto";
+
+"For continue you need to accept" = "Para continuar você precisa aceitar";
+
+// 14 de março
+
+"Total Cart:" = "Carrinho Total:";
+
+"Order ID:" = "ID do pedido:";
+
+"Pre Order ID:" = "ID de pré-encomenda:";
+
+"Completed" = "ID de pré-encomenda:";
+
+"My Favourite" = "Meu Favorito";
+
+"Offer" = "Oferta";
+
+"Menu" = "Menu";
+
+"Load More" = "Carregar mais";
+
+"My Cart" = "Meu Carrinho";
+
+"Apply Offer" = "Aplicar oferta";
+
+
+"Enter email address" = "Insira o endereço de e-mail";
+
+"Order Details" = "Detalhes do pedido";
+
+"Order placed successfully" = "Pedido feito com sucesso";
+
+"Products" = "Produtos";
+
+"Item Detail" = "Detalhe do item";
+
+"Phone Number :" = "Número de telefone:";
+
+"Tax Number:" = "Número Fiscal:";
+
+"Your Fee" = "Sua taxa";
+
+"Rate user and finish" = "Avaliar usuário e finalizar";
+
+"My Earnings" = "Meus ganhos";
+
+"Notifications" = "Notificações";
+
+"Withdraw Wallet Amount" = "Retirar valor da carteira";
+
+"Assigned Driver" = "Driver atribuído";
+
+"Give Rating" = "Dar nota";
+
+"Add Details" = "Adicionar detalhes";
+
+"Pending" = "Pendente";
+
+"Preparing" = "Preparando";
+
+"Ready" = "Pronto";
+
+"Track Order" = "Rastrear Pedido";
+
+"Rejected" = "Rejeitado";
+
+"Not Paid" = "Não pago";
+
+"Name" = "Nome";
+
+"Address:" = "Endereço:";
+
+"Mobile:" = "Celular:";
+
+"Restaurant" = "Restaurante";
+
+"Available Driver" = "Driver disponível";
+
+"km away" = "km de distância";
+
+"Please select address" = "Por favor, selecione o endereço";
+
+"Enter your business code" = "Insira o código da sua empresa";
+// Novo
+
+"Time" = "Hora";
+
+"Find The Perfect Workout Buddy" = "Encontre o companheiro de treino perfeito";
+
+"Upload Your Daily Feed" = "Carregar seu feed diário";
+
+"Buy and Sell Equipment" = "Comprar e vender equipamentos";
+
+"Subscription" = "Assinatura";
+
+"Skip" = "Ignorar";
+
+"Next" = "Ignorar";
+
+"Start" = "Iniciar";
+
+"Your account is created successfully, we have sent one confirmation mail to your mail id so please confirm and login in app." = "Sua conta foi criada com sucesso, enviamos um e-mail de confirmação para o seu endereço de e-mail, então confirme e faça o login no aplicativo.";
+
+"My Feed" = "Meu feed";
+
+"Friends" = "Amigos";
+
+"Buddies" = "Amigos";
+
+"Journal Activity" = "Atividade do diário";
+
+"Subscription" = "Assinatura";
+
+"Refer Friend" = "Indique um amigo";
+
+"Settings" = "Configurações";
+
+"Blocked Users" = "Usuários bloqueados";
+
+"Report Users" = "Relatar usuários";
+
+"Find Me" = "Encontre-me";
+
+"Who can see your profile" = "Quem pode ver seu perfil";
+
+"Give Feedback" = "Dar feedback";
+
+"Contact Us" = "Fale Conosco";
+
+"Product added successfully" = "Produto adicionado com sucesso";
+
+"Product updated successfully" = "Produto atualizado com sucesso";
+
+"Are you sure you want to delete this item" = "Tem certeza de que deseja excluir este item";
+
+"Transaction is successfull" = "A transação foi bem-sucedida";
+
+"Feedback sent successfully" = "Feedback enviado com sucesso";
+
+"Activity added successfully" = "Atividade adicionada com sucesso";
+
+"Activity updated successfully" = "Atividade atualizada com sucesso";
+
+"Notification" = "Notificação";
+
+"Reset password mail has sent to your registered mailId" = "E-mail de redefinição de senha enviado para seu mailId registrado";
+
+"Invalid Price" = "Preço inválido";
+
+"Update Post" = "Atualizar postagem";
+
+"Delete Account" = "Excluir conta";
+
+"We sent your current password to your mail , please check and login again" = "Enviamos sua senha atual para o seu e-mail, verifique e faça login novamente";
+
+"Are you sure to delete your account?" = "Tem certeza que deseja deletar sua conta?";
+
+"Are you sure you want to delete your account?" = "Tem certeza que deseja deletar sua conta?";
+
+"Update Activity" = "Atualizar atividade";
+
+"Your location is hidden to other users." = "Sua localização está oculta para outros usuários.";
+
+"For continue you need to accept Terms and Conditions" = "Para continuar, você precisa aceitar os Termos e Condições";
+
+"You must agree to our term and condition" = "Você deve concordar com nossos termos e condições";
+
+"Blocked Users" = "Usuários bloqueados";
+
+"Report Users" = "Relatar usuários";
+
+"Send Feedback" = "Enviar comentários";
+
+"Feedback send successfully" = "Feedback enviado com sucesso";
+
+"Contact Us" = "Fale Conosco";
+
+"Comment" = "Comentário";
+
+"Comments" = "Comentários";
+
+"Liked by" = "Gostei de";
+
+"Months" = "Meses";
+
+"This is your current active plan." = "Este é o seu plano ativo atual.";
+
+"Your location is hidden to other users." = "Sua localização está oculta para outros usuários.";
+
+"Something went wrong with map" = "Algo deu errado com o mapa";
+
+"Reported to Admin" = "Relatado ao administrador";
+
+"Report" = "Relatório";
+
+"Total:" = "Total:";
+
+"Card in invalid!" = "Cartão inválido!";
+
+"Card is incomplete" = "Cartão incompleto";
+
+"Photos uploaded successfully" = "Fotos enviadas com sucesso";
+
+"Post added successfully" = "Post added successfully";
+
+"Post updated successfully" = "Post updated successfully";

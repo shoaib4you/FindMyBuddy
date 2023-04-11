@@ -1,0 +1,588 @@
+
+/* Class = "UITextField"; placeholder = "Enter expiry date"; ObjectID = "04E-LQ-gos"; */
+"04E-LQ-gos.placeholder" = "有効期限を入力してください";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "0Ix-3t-ErK"; */
+"0Ix-3t-ErK.text" = "日付";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "0Qs-qp-lnk"; */
+"0Qs-qp-lnk.normalTitle" = "送信";
+
+/* Class = "UILabel"; text = "About Me"; ObjectID = "18Z-4P-tFI"; */
+"18Z-4P-tFI.text" = "私について";
+
+/* Class = "UILabel"; text = "Payment Amount"; ObjectID = "1OE-WE-CdX"; */
+"1OE-WE-CdX.text" = "支払額";
+
+/* Class = "UIButton"; normalTitle = "POST"; ObjectID = "1VQ-hr-tjb"; */
+"1VQ-hr-tjb.normalTitle" = "POST";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "21J-xx-LxQ"; */
+"21J-xx-LxQ.text" = "説明";
+
+/* Class = "UITextField"; placeholder = "Message"; ObjectID = "28t-BH-553"; */
+"28t-BH-553.placeholder" = "メッセージ";
+
+/* Class = "UIButton"; normalTitle = "Spanish"; ObjectID = "2cN-zf-7o7"; */
+"2cN-zf-7o7.normalTitle" = "スペイン語";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "2hi-G0-Tkf"; */
+"2hi-G0-Tkf.placeholder" = "パスワード";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "30b-RS-Dsb"; */
+"30b-RS-Dsb.text" = "説明";
+
+/* Class = "UILabel"; text = "Enter Radius (Range in miles)"; ObjectID = "48A-6u-f0c"; */
+"48A-6u-f0c.text" = "半径を入力してください (マイルの範囲)";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "4SV-Gy-f5P"; */
+"4SV-Gy-f5P.normalTitle" = "パスワードをお忘れですか?";
+
+/* Class = "UIButton"; normalTitle = "Korean"; ObjectID = "4VW-Zz-Dd9"; */
+"4VW-Zz-Dd9.normalTitle" = "韓国語";
+
+/* Class = "UIButton"; normalTitle = "Requests"; ObjectID = "4iC-og-X5G"; */
+"4iC-og-X5G.normalTitle" = "リクエスト";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4me-7R-yXy"; */
+"4me-7R-yXy.text" = "ラベル";
+
+/* Class = "UILabel"; text = "Category Name"; ObjectID = "4z2-cX-VWi"; */
+"4z2-cX-VWi.text" = "カテゴリ名";
+
+/* Class = "UILabel"; text = "Add Images"; ObjectID = "5Qc-Zm-Kje"; */
+"5Qc-Zm-Kje.text" = "画像を追加";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "6CT-bA-XHV"; */
+"6CT-bA-XHV.text" = "場所";
+
+/* Class = "UILabel"; text = "Product Price"; ObjectID = "6Vz-HI-EJ4"; */
+"6Vz-HI-EJ4.text" = "商品価格";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6mZ-da-s3B"; */
+"6mZ-da-s3B.normalTitle" = "ボタン";
+
+/* Class = "UILabel"; text = "Card Number"; ObjectID = "73L-2U-9Vi"; */
+"73L-2U-9Vi.text" = "カード番号";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "75U-Gp-KpX"; */
+"75U-Gp-KpX.placeholder" = "携帯電話番号";
+
+/* Class = "UILabel"; text = "Test "; ObjectID = "7gV-lw-Wkp"; */
+"7gV-lw-Wkp.text" = "テスト";
+
+/* Class = "UILabel"; text = "Name change can only be changed once every six months."; ObjectID = "86S-Mu-moe"; */
+"86S-Mu-moe.text" = "名前の変更は半年に 1 回のみ可能です。";
+
+/* Class = "UITabBarItem"; title = "Fit Market"; ObjectID = "8PL-R4-5GA"; */
+"8PL-R4-5GA.title" = "フィットマーケット";
+
+/* Class = "UILabel"; text = "Add Post"; ObjectID = "8hM-hQ-LXr"; */
+"8hM-hQ-LXr.text" = "投稿を追加";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "8qb-iG-L3h"; */
+"8qb-iG-L3h.text" = "プロフィールを編集";
+
+/* Class = "UIButton"; normalTitle = "Block"; ObjectID = "967-v0-J6S"; */
+"967-v0-J6S.normalTitle" = "ブロック";
+
+/* Class = "UIButton"; normalTitle = "POST"; ObjectID = "9Dk-iV-acz"; */
+"9Dk-iV-acz.normalTitle" = "POST";
+
+/* Class = "UILabel"; text = "Enter your email address to reset your password"; ObjectID = "9wu-Ul-EUo"; */
+"9wu-Ul-EUo.text" = "パスワードをリセットするにはメールアドレスを入力してください";
+
+/* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "A9T-oB-vsf"; */
+"A9T-oB-vsf.normalTitle" = "UPDATE";
+
+/* Class = "UILabel"; text = "Select Who Can See Your Profile?"; ObjectID = "ATx-eM-ERk"; */
+"ATx-eM-ERk.text" = "あなたのプロフィールを閲覧できる人を選択しますか?";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "AgF-EL-F0Y"; */
+"AgF-EL-F0Y.placeholder" = "電子メール";
+
+/* Class = "UILabel"; text = "Friends"; ObjectID = "BWN-Po-LHC"; */
+"BWN-Po-LHC.text" = "友達";
+
+/* Class = "UIButton"; normalTitle = "Russian"; ObjectID = "CCm-1E-rrb"; */
+"CCm-1E-rrb.normalTitle" = "ロシア語";
+
+/* Class = "UILabel"; text = "Chat"; ObjectID = "CCn-89-WT8"; */
+"CCn-89-WT8.text" = "チャット";
+
+/* Class = "UITextField"; placeholder = "Enter Radius (Range in miles)"; ObjectID = "CKN-rN-dxj"; */
+"CKN-rN-dxj.placeholder" = "半径を入力してください (マイルの範囲)";
+
+/* Class = "UILabel"; text = "Test "; ObjectID = "CKp-g3-enP"; */
+"CKp-g3-enP.text" = "テスト";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "CfX-lW-7HH"; */
+"CfX-lW-7HH.placeholder" = "パスワード";
+
+/* Class = "UILabel"; text = "Share my location to other users"; ObjectID = "DK3-Xr-Mzu"; */
+"DK3-Xr-Mzu.text" = "現在地を他のユーザーと共有する";
+
+/* Class = "UIButton"; normalTitle = "Subscribe"; ObjectID = "DLY-4h-3DK"; */
+"DLY-4h-3DK.normalTitle" = "購読";
+
+/* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "DnJ-Qc-I5b"; */
+"DnJ-Qc-I5b.normalTitle" = "パスワードの変更";
+
+/* Class = "UITextField"; placeholder = "Product Price"; ObjectID = "EA1-js-Lww"; */
+"EA1-js-Lww.placeholder" = "商品価格";
+
+/* Class = "UILabel"; text = "Login to your account"; ObjectID = "EJb-XN-1iT"; */
+"EJb-XN-1iT.text" = "アカウントにログイン";
+
+/* Class = "UIButton"; normalTitle = "Everyone"; ObjectID = "EtL-7t-fht"; */
+"EtL-7t-fht.normalTitle" = "全員";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "Fao-Yl-IwR"; */
+"Fao-Yl-IwR.placeholder" = "姓";
+
+/* Class = "UITabBarItem"; title = "Find Buddy"; ObjectID = "FzK-XR-yzE"; */
+"FzK-XR-yzE.title" = "仲間を探す";
+
+/* Class = "UIButton"; normalTitle = "Filter"; ObjectID = "G8b-0b-6Yb"; */
+"G8b-0b-6Yb.normalTitle" = "フィルター";
+
+/* Class = "UILabel"; text = "Send Feedback"; ObjectID = "GII-uP-FQp"; */
+"GII-uP-FQp.text" = "フィードバックを送信";
+
+/* Class = "UINavigationItem"; title = "dfds"; ObjectID = "GTi-dX-Nzf"; */
+"GTi-dX-Nzf.title" = "dfds";
+
+/* Class = "UILabel"; text = "Test "; ObjectID = "Gqd-4f-SQL"; */
+"Gqd-4f-SQL.text" = "テスト";
+
+/* Class = "UIButton"; normalTitle = "Already have an account? Sign In"; ObjectID = "IIx-Fh-b7T"; */
+"IIx-Fh-b7T.normalTitle" = "既にアカウントをお持ちですか? サインイン";
+
+/* Class = "UITextField"; placeholder = "Name*"; ObjectID = "IZL-3y-1wd"; */
+"IZL-3y-1wd.placeholder" = "名前*";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "Id3-xB-Mbt"; */
+"Id3-xB-Mbt.normalTitle" = "送信";
+
+/* Class = "UIButton"; normalTitle = "Sign in with Apple"; ObjectID = "IuB-hn-OdK"; */
+"IuB-hn-OdK.normalTitle" = "Apple でサインイン";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "J19-FG-h4p"; */
+"J19-FG-h4p.normalTitle" = "ログイン";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "JHg-hL-Whh"; */
+"JHg-hL-Whh.normalTitle" = "保存";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "JIi-tq-rBP"; */
+"JIi-tq-rBP.text" = "お問い合わせ";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "KHT-KX-ydl"; */
+"KHT-KX-ydl.text" = "場所";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KHj-0F-1D4"; */
+"KHj-0F-1D4.normalTitle" = "ボタン";
+
+/* Class = "UILabel"; text = "ldsf sdfads"; ObjectID = "Kd4-PU-IEE"; */
+"Kd4-PU-IEE.text" = "ldsf sdfads";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "LJd-VA-vsc"; */
+"LJd-VA-vsc.text" = "タイトル";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "LLj-sf-noA"; */
+"LLj-sf-noA.placeholder" = "場所";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "LRX-OQ-5dA"; */
+"LRX-OQ-5dA.placeholder" = "新しいパスワード";
+
+/* Class = "UIButton"; normalTitle = "Portuguese"; ObjectID = "Lu5-Cn-BQb"; */
+"Lu5-Cn-BQb.normalTitle" = "ポルトガル語";
+
+/* Class = "UILabel"; text = "Category Name"; ObjectID = "MKF-cK-Jsp"; */
+"MKF-cK-Jsp.text" = "カテゴリ名";
+
+/* Class = "UILabel"; text = "Contact Seller"; ObjectID = "MQP-JZ-PMD"; */
+"MQP-JZ-PMD.text" = "販売者に連絡";
+
+/* Class = "UILabel"; text = "Kundan"; ObjectID = "MZl-iz-5l2"; */
+"MZl-iz-5l2.text" = "クンダン";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "NGg-Mk-byb"; */
+"NGg-Mk-byb.placeholder" = "パスワードの確認";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "NaX-OQ-TQE"; */
+"NaX-OQ-TQE.text" = "ユーザー名";
+
+/* Class = "UILabel"; text = "Create new account"; ObjectID = "Nup-sb-kDu"; */
+"Nup-sb-kDu.text" = "新しいアカウントを作成";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "O2U-Ac-xUa"; */
+"O2U-Ac-xUa.normalTitle" = "開始";
+
+/* Class = "UILabel"; text = "Write a post"; ObjectID = "OND-hf-ypw"; */
+"OND-hf-ypw.text" = "投稿を書く";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "OQn-eF-tbe"; */
+"OQn-eF-tbe.normalTitle" = "送信";
+
+/* Class = "UIButton"; normalTitle = "Japanese"; ObjectID = "Oax-M1-kVN"; */
+"Oax-M1-kVN.normalTitle" = "日本語";
+
+/* Class = "UITextView"; text = "Send message..."; ObjectID = "P5K-IV-vQ2"; */
+"P5K-IV-vQ2.text" = "メッセージを送信...";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "P7U-UL-99W"; */
+"P7U-UL-99W.placeholder" = "説明";
+
+/* Class = "UITextField"; placeholder = "Activity Name"; ObjectID = "PI0-ky-2mA"; */
+"PI0-ky-2mA.placeholder" = "アクティビティ名";
+
+/* Class = "UILabel"; text = "Add Post"; ObjectID = "PYk-7H-jwg"; */
+"PYk-7H-jwg.text" = "投稿を追加";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Pvc-A1-6vz"; */
+"Pvc-A1-6vz.placeholder" = "メール";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Q0i-Ni-WfI"; */
+"Q0i-Ni-WfI.text" = "ラベル";
+
+/* Class = "UIButton"; normalTitle = "Select Date"; ObjectID = "QZl-Y4-lxh"; */
+"QZl-Y4-lxh.normalTitle" = "日付を選択";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "RSp-dD-pdh"; */
+"RSp-dD-pdh.text" = "有効期限";
+
+/* Class = "UIButton"; normalTitle = "List"; ObjectID = "RVE-7Y-d1e"; */
+"RVE-7Y-d1e.normalTitle" = "リスト";
+
+/* Class = "UIButton"; normalTitle = "My Items"; ObjectID = "Rd1-5K-Poe"; */
+"Rd1-5K-Poe.normalTitle" = "マイ アイテム";
+
+/* Class = "UIButton"; normalTitle = "Friends"; ObjectID = "Rls-Hl-FY0"; */
+"Rls-Hl-FY0.normalTitle" = "友達";
+
+/* Class = "UILabel"; text = "Test "; ObjectID = "Rob-NO-tJb"; */
+"Rob-NO-tJb.text" = "テスト";
+
+/* Class = "UIButton"; normalTitle = "Add Friend"; ObjectID = "S5w-Ap-JZr"; */
+"S5w-Ap-JZr.normalTitle" = "友達追加";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "SB9-pc-o5o"; */
+"SB9-pc-o5o.placeholder" = "メール";
+
+/* Class = "UILabel"; text = "Zip/Postal Code Address"; ObjectID = "SRa-oL-9GT"; */
+"SRa-oL-9GT.text" = "郵便番号住所";
+
+/* Class = "UILabel"; text = "Add Activity"; ObjectID = "SjL-DD-cVx"; */
+"SjL-DD-cVx.text" = "アクティビティを追加";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T9O-eH-sMi"; */
+"T9O-eH-sMi.text" = "ラベル";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "TXt-Ve-XUF"; */
+"TXt-Ve-XUF.placeholder" = "メール";
+
+/* Class = "UIButton"; normalTitle = "Chinese"; ObjectID = "Tj2-Md-7y5"; */
+"Tj2-Md-7y5.normalTitle" = "中国語";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "TjI-7v-Z2r"; */
+"TjI-7v-Z2r.text" = "説明";
+
+/* Class = "UIButton"; normalTitle = "French"; ObjectID = "TzI-jF-lSI"; */
+"TzI-jF-lSI.normalTitle" = "フランス語";
+
+/* Class = "UITextField"; placeholder = "Feedback*"; ObjectID = "UAg-qo-N7t"; */
+"UAg-qo-N7t.placeholder" = "フィードバック*";
+
+/* Class = "UIButton"; normalTitle = "Category Name"; ObjectID = "UMv-ke-A7G"; */
+"UMv-ke-A7G.normalTitle" = "カテゴリ名";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "Vce-GE-RZ4"; */
+"Vce-GE-RZ4.normalTitle" = "登録";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "W0y-4f-HOd"; */
+"W0y-4f-HOd.text" = "姓";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "WRJ-iu-uc3"; */
+"WRJ-iu-uc3.configuration.title" = "ボタン";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WRJ-iu-uc3"; */
+"WRJ-iu-uc3.normalTitle" = "ボタン";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "Wau-fr-3tn"; */
+"Wau-fr-3tn.text" = "パスワードを忘れた";
+
+/* Class = "UILabel"; text = "Name On Card"; ObjectID = "WqD-QP-gVF"; */
+"WqD-QP-gVF.text" = "カードの名前";
+
+/* Class = "UILabel"; text = "Notification Title"; ObjectID = "Xky-Jm-u7E"; */
+"Xky-Jm-u7E.text" = "通知のタイトル";
+
+/* Class = "UILabel"; text = "Posts"; ObjectID = "Xop-PR-osR"; */
+"Xop-PR-osR.text" = "投稿";
+
+/* Class = "UITextField"; placeholder = "Name*"; ObjectID = "XzI-Ry-qlZ"; */
+"XzI-Ry-qlZ.placeholder" = "名前*";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Y9B-zq-qSm"; */
+"Y9B-zq-qSm.placeholder" = "メール";
+
+/* Class = "UITextField"; placeholder = "Location Zip Code"; ObjectID = "YNX-wZ-ccH"; */
+"YNX-wZ-ccH.placeholder" = "場所の郵便番号";
+
+/* Class = "UILabel"; text = "Security Code"; ObjectID = "YQ2-ZV-G2F"; */
+"YQ2-ZV-G2F.text" = "セキュリティコード";
+
+/* Class = "UILabel"; text = "Select Location"; ObjectID = "Yui-iv-E6x"; */
+"Yui-iv-E6x.text" = "場所を選択";
+
+/* Class = "UIButton"; normalTitle = "German"; ObjectID = "Yvm-gC-NSG"; */
+"Yvm-gC-NSG.normalTitle" = "ドイツ語";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "YwC-I5-4PJ"; */
+"YwC-I5-4PJ.placeholder" = "場所";
+
+/* Class = "UIButton"; normalTitle = "Continue with google"; ObjectID = "ZP9-0f-j0j"; */
+"ZP9-0f-j0j.normalTitle" = "Google で続行";
+
+/* Class = "UITextField"; placeholder = "Zip/Postal Code Address"; ObjectID = "aJS-YI-G7B"; */
+"aJS-YI-G7B.placeholder" = "郵便番号住所";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aYu-PS-PEY"; */
+"aYu-PS-PEY.text" = "ラベル";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "aZR-9M-JUv"; */
+"aZR-9M-JUv.normalTitle" = "スキップ";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "ag1-Mz-r0c"; */
+"ag1-Mz-r0c.text" = "メール";
+
+/* Class = "UILabel"; text = "Subscribe to the following plans below to further enjoy what the app has to offer"; ObjectID = "b92-yw-zjC"; */
+"b92-yw-zjC.text" = "アプリが提供するものをさらに楽しむために、以下のプランに登録してください";
+
+/* Class = "UIButton"; normalTitle = "Map"; ObjectID = "bc1-uJ-exI"; */
+"bc1-uJ-exI.normalTitle" = "地図";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "c5J-Pe-HAy"; */
+"c5J-Pe-HAy.text" = "説明";
+
+/* Class = "UILabel"; text = "Address Bar"; ObjectID = "cGP-dt-0A9"; */
+"cGP-dt-0A9.text" = "アドレスバー";
+
+/* Class = "UITextField"; placeholder = "Enter name on card"; ObjectID = "ceh-g1-JQa"; */
+"ceh-g1-JQa.placeholder" = "カードに名前を入力してください";
+
+/* Class = "UILabel"; text = "Refer a Friend"; ObjectID = "chG-8c-LXB"; */
+"chG-8c-LXB.text" = "友達を紹介";
+
+/* Class = "UILabel"; text = "Location Zip Code"; ObjectID = "dkI-Wq-2g8"; */
+"dkI-Wq-2g8.text" = "場所の郵便番号";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "e7z-wy-1Bo"; */
+"e7z-wy-1Bo.text" = "説明";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "eD8-Zc-i8w"; */
+"eD8-Zc-i8w.text" = "プロフィール";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "eUp-zj-0WX"; */
+"eUp-zj-0WX.placeholder" = "姓";
+
+/* Class = "UIButton"; normalTitle = "ADD PHOTOS"; ObjectID = "eVq-Ff-MMF"; */
+"eVq-Ff-MMF.normalTitle" = "写真を追加";
+
+/* Class = "UILabel"; text = "Friends"; ObjectID = "f5V-ie-4hC"; */
+"f5V-ie-4hC.text" = "友達";
+
+/* Class = "UITabBarItem"; title = "Fit Feed"; ObjectID = "f7O-Pc-Gl8"; */
+"f7O-Pc-Gl8.title" = "フィードに合わせる";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "fTD-OV-A6r"; */
+"fTD-OV-A6r.normalTitle" = "完了";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "ffL-ec-Cwg"; */
+"ffL-ec-Cwg.text" = "説明";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "fkM-7g-nfc"; */
+"fkM-7g-nfc.placeholder" = "場所";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "gOX-n6-9kz"; */
+"gOX-n6-9kz.normalTitle" = "送信";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "h2V-gF-Czs"; */
+"h2V-gF-Czs.placeholder" = "名";
+
+/* Class = "UILabel"; text = "From Time"; ObjectID = "h8i-L2-nuL"; */
+"h8i-L2-nuL.text" = "時間から";
+
+/* Class = "UITextView"; text = "Description"; ObjectID = "hPy-mA-QaL"; */
+"hPy-mA-QaL.text" = "説明";
+
+/* Class = "UIButton"; normalTitle = "Message"; ObjectID = "hST-aM-lXa"; */
+"hST-aM-lXa.normalTitle" = "メッセージ";
+
+/* Class = "UIButton"; normalTitle = "To Time"; ObjectID = "hWt-NU-UMF"; */
+"hWt-NU-UMF.normalTitle" = "時間まで";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "hXY-Mk-2YK"; */
+"hXY-Mk-2YK.normalTitle" = "送信";
+
+/* Class = "UIButton"; normalTitle = "Italian"; ObjectID = "htv-Kj-bYx"; */
+"htv-Kj-bYx.normalTitle" = "イタリア語";
+
+/* Class = "UITabBarItem"; title = "Chat"; ObjectID = "hwv-c7-pZa"; */
+"hwv-c7-pZa.title" = "チャット";
+
+/* Class = "UITextField"; placeholder = "Contact Number"; ObjectID = "i7o-hW-nEg"; */
+"i7o-hW-nEg.placeholder" = "連絡先番号";
+
+/* Class = "UITextView"; text = "Search Location"; ObjectID = "iIB-o0-RPP"; */
+"iIB-o0-RPP.text" = "検索場所";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "iRy-B5-w7V"; */
+"iRy-B5-w7V.placeholder" = "メール";
+
+/* Class = "UILabel"; text = "Photos"; ObjectID = "kdL-Z9-nIx"; */
+"kdL-Z9-nIx.text" = "写真";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "km3-oN-2ou"; */
+"km3-on-2ou.title" = "プロフィール";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "lXG-Hz-845"; */
+"lXG-Hz-845.text" = "設定";
+
+/* Class = "UIButton"; normalTitle = "I Agree, Continue"; ObjectID = "lda-8e-CL2"; */
+"lda-8e-CL2.normalTitle" = "同意して続行";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mRa-iA-reE"; */
+"mRa-iA-reE.text" = "ラベル";
+
+/* Class = "UILabel"; text = "Refer a Friend"; ObjectID = "n3p-Y3-ne7"; */
+"n3p-Y3-ne7.text" = "友達を紹介";
+
+/* Class = "UIButton"; normalTitle = "My Buddies"; ObjectID = "nqx-Pe-0ef"; */
+"nqx-Pe-0ef.normalTitle" = "私の仲間";
+
+/* Class = "UIButton"; normalTitle = "Report"; ObjectID = "o8g-lq-8CO"; */
+"o8g-lq-8CO.normalTitle" = "レポート";
+
+/* Class = "UILabel"; text = "To Time"; ObjectID = "o8u-we-2R8"; */
+"o8u-we-2R8.text" = "時間まで";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "okY-6p-v6m"; */
+"okY-6p-v6m.text" = "名";
+
+/* Class = "UILabel"; text = "Journal Activity"; ObjectID = "oth-G8-dls"; */
+"oth-G8-dls.text" = "日誌活動";
+
+/* Class = "UIButton"; normalTitle = "Public Products"; ObjectID = "p6J-NT-PEb"; */
+"p6J-NT-PEb.normalTitle" = "公開製品";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "pdP-Em-fD2"; */
+"pdP-Em-fD2.placeholder" = "説明";
+
+/* Class = "UILabel"; text = "Product Detail"; ObjectID = "ppB-XI-TLd"; */
+"ppB-XI-TLd.text" = "製品詳細";
+
+/* Class = "UILabel"; text = "Feed"; ObjectID = "qPY-gk-N6t"; */
+"qPY-gk-N6t.text" = "フィード";
+
+/* Class = "UITextField"; placeholder = "Write a post"; ObjectID = "qPn-0u-nDJ"; */
+"qPn-0u-nDJ.placeholder" = "投稿を書く";
+
+/* Class = "UITextView"; text = "Send message..."; ObjectID = "qUk-p6-NOg"; */
+"qUk-p6-NOg.text" = "メッセージを送信...";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "r44-TK-oEB"; */
+"r44-TK-oEB.normalTitle" = "英語";
+
+/* Class = "UIButton"; normalTitle = "Don't have an account? Sign Up"; ObjectID = "rCA-W2-jiN"; */
+"rCA-W2-jiN.normalTitle" = "アカウントをお持ちでない場合は、サインアップしてください";
+
+/* Class = "UIButton"; normalTitle = "UPLOAD PHOTOS"; ObjectID = "rJA-Fi-X43"; */
+"rJA-Fi-X43.normalTitle" = "写真をアップロード";
+
+/* Class = "UILabel"; text = "When you become a paid menber. 50% off the next month."; ObjectID = "rc8-p2-JQk"; */
+"rc8-p2-JQk.text" = "有料会員になると、翌月50%オフ。";
+
+/* Class = "UILabel"; text = "Subscription"; ObjectID = "rn1-q4-yEY"; */
+"rn1-q4-yEY.text" = "サブスクリプション";
+
+/* Class = "UILabel"; text = "ldsf sdfads"; ObjectID = "rvt-Jw-lY0"; */
+"rvt-Jw-lY0.text" = "ldsf sdfads";
+
+/* Class = "UITextField"; placeholder = "Old Password"; ObjectID = "sEy-jQ-OHJ"; */
+"sEy-jQ-OHJ.placeholder" = "古いパスワード";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sd0-e2-rny"; */
+"sd0-e2-rny.text" = "ラベル";
+
+/* Class = "UITextField"; placeholder = "Enter card number"; ObjectID = "t3X-Tk-KKc"; */
+"t3X-Tk-KKc.placeholder" = "カード番号を入力してください";
+
+/* Class = "UITextField"; placeholder = "About Me"; ObjectID = "t3d-8j-9HA"; */
+"t3d-8j-9HA.placeholder" = "私について";
+
+/* Class = "UILabel"; text = "Add Images"; ObjectID = "t5Z-zy-qs1"; */
+"t5Z-zy-qs1.text" = "画像を追加";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "tDe-qj-iHX"; */
+"tDe-qj-iHX.placeholder" = "パスワードの確認";
+
+/* Class = "UITextView"; text = "Description"; ObjectID = "tH4-re-2Uz"; */
+"tH4-re-2Uz.text" = "説明";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "tMU-Cz-GPr"; */
+"tMU-Cz-GPr.placeholder" = "携帯電話番号";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "tVJ-Dw-6ev"; */
+"tVJ-Dw-6ev.placeholder" = "タイトル";
+
+/* Class = "UIButton"; normalTitle = "Invite"; ObjectID = "tVX-UI-n7h"; */
+"tVX-UI-n7h.normalTitle" = "招待";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "uAQ-xE-gQw"; */
+"uAQ-xE-gQw.normalTitle" = "キャンセル";
+
+/* Class = "UIButton"; normalTitle = "From Time"; ObjectID = "uYX-Rn-gYc"; */
+"uYX-Rn-gYc.normalTitle" = "時間から";
+
+/* Class = "UILabel"; text = "Activity Name"; ObjectID = "v5b-Sf-IqA"; */
+"v5b-Sf-IqA.text" = "アクティビティ名";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "vC3-R3-eeL"; */
+"vC3-R3-eeL.text" = "携帯電話番号";
+
+/* Class = "UILabel"; text = "Get Started with FMWB Pro"; ObjectID = "wLj-vS-Qwv"; */
+"wLj-vS-Qwv.text" = "FMWB Pro を使ってみる";
+
+/* Class = "UILabel"; text = "Posts"; ObjectID = "wMe-BF-ids"; */
+"wMe-BF-ids.text" = "投稿";
+
+/* Class = "UILabel"; text = "Test "; ObjectID = "wb4-xe-nLT"; */
+"wb4-xe-nLT.text" = "テスト ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wfE-kw-d8V"; */
+"wfE-kw-d8V.text" = "ラベル";
+
+/* Class = "UILabel"; text = "AED 52.26"; ObjectID = "wm1-HP-MHH"; */
+"wm1-HP-MHH.text" = "AED 52.26";
+
+/* Class = "UITextField"; placeholder = "Contact Number"; ObjectID = "wxc-5J-vq5"; */
+"wxc-5J-vq5.placeholder" = "連絡先番号";
+
+/* Class = "UITextField"; placeholder = "Enter security code"; ObjectID = "xIX-XE-cIY"; */
+"xIX-XE-cIY.placeholder" = "セキュリティ コードを入力してください";
+
+/* Class = "UILabel"; text = "Friends"; ObjectID = "xwW-fP-xHH"; */
+"xwW-fP-xHH.text" = "友達";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yRg-hj-YDs"; */
+"yRg-hj-YDs.text" = "ラベル";
+
+/* Class = "UILabel"; text = "My Feed"; ObjectID = "z6B-db-T4v"; */
+"z6B-db-T4v.text" = "私のフィード";
+
+/* Class = "UILabel"; text = "Category Name"; ObjectID = "z8h-yB-BNl"; */
+"z8h-yB-BNl.text" = "カテゴリ名";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "ztZ-3M-nPX"; */
+"ztZ-3M-nPX.placeholder" = "名";

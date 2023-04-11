@@ -1,0 +1,390 @@
+/* 
+  Localizable.strings
+  ServiceProvider
+
+  Created by mac on 16/03/20.
+  Copyright © 2020 mac. All rights reserved.
+*/
+
+
+"No Internet Connection. Make sure your device is connected to the internet." = "인터넷에 연결되어 있지 않습니다. 장치가 인터넷에 연결되어 있는지 확인하십시오.";
+
+"OK" = "확인";
+
+"Loading" = "로드 중";
+
+"Please Wait!!" = "기다려주세요!!";
+
+"Cancel" = "취소";
+
+"DATE" = "날짜";
+
+"Done" = "완료";
+
+"Camera" = "카메라";
+
+"Gallery" = "갤러리";
+
+"Yes" = "예";
+
+"No" = "아니오";
+
+"No data available to show" = "표시할 데이터 없음";
+
+"Please enter full name" = "Please enter full name";
+
+"Please enter email address" = "이메일 주소를 입력하세요";
+
+"Invalid email address" = "잘못된 이메일 주소";
+
+"Please enter password" = "암호를 입력하십시오";
+
+"Please enter confirm password" = "암호를 확인하십시오";
+
+"Password not matched" = "비밀번호가 일치하지 않음";
+
+"Something went wrong" = "뭔가 잘못되었습니다";
+
+"Profile Update Successfully" = "프로필 업데이트 성공";
+
+"Are you sure you want to log out?" = "로그아웃하시겠습니까?";
+
+
+"Thank You..!! We'll be in touch shortly." = "감사합니다..!! 곧 연락드리겠습니다.";
+
+"Write some message" = "메시지 쓰기";
+
+"Thank you for registration..!!" = "등록해주셔서 감사합니다..!!";
+
+
+"Home" = "홈";
+
+"Edit Profile" = "프로필 편집";
+
+"Change Password" = "비밀번호 변경";
+
+"Change Language" = "언어 변경";
+
+"My Chat" = "내 채팅";
+
+"About us" = "회사 소개";
+
+"Privacy Policy" = "개인정보 보호정책";
+
+"Terms and Conditions" = "이용약관";
+
+"Choose Language" = "언어 선택";
+
+"Offers" = "제안";
+
+"Share APP & Earn" = "Share APP & Earn";
+
+"Orders" = "주문";
+
+"Rate this App" = "이 앱 평가하기";
+
+"Help & Support" = "도움말 및 지원";
+
+"Logout" = "로그아웃";
+
+"Gift" = "선물";
+
+"My Reviews" = "내 리뷰";
+
+"My Wallet" = "내 지갑";
+
+"My Earning" = "나의 수입";
+
+"You have entered wrong email or password" = "잘못된 이메일이나 암호를 입력했습니다";
+
+"Please check your email to reset" = "Please check your email to reset";
+
+"Members" = "회원";
+
+"Password changed successfully" = "비밀번호가 성공적으로 변경되었습니다";
+
+"Please enter message" = "메시지를 입력하십시오";
+
+"Login" = "로그인";
+
+"Forgot Password" = "비밀번호 분실";
+
+"Sign up" = "등록";
+
+"My Profile" = "내 프로필";
+
+"Send message..." = "메시지 보내기...";
+
+"Write here..." = "여기에 쓰기...";
+
+"New password sent to your email." = "이메일로 새 비밀번호를 보냈습니다.";
+
+"please enter valid details" = "유효한 정보를 입력하세요";
+
+"Order Now" = "지금 주문하기";
+
+"Amount" = "금액";
+
+"Country" = "국가";
+
+"Action Code" = "액션 코드";
+
+"Currency" = "통화";
+
+"Email" = "이메일";
+
+"TrackID" = "트랙ID";
+
+"TockenID" = "토큰ID";
+
+"Alert" = "경고";
+
+"Check" = "확인";
+
+"Order Id:" = "주문 ID:";
+
+"NA" = "해당 없음";
+
+"Please check terms and condition" = "이용약관을 확인하십시오";
+
+"User Already Exists" = "사용자가 이미 존재함";
+
+"Please register to continue." = "계속하려면 등록하십시오.";
+
+"Use Code" = "코드 사용";
+
+"The offer is valid from" = "제안은 유효합니다";
+
+"to" = "에";
+
+"Expire on" = "만료 날짜";
+
+"My Address" = "내 주소";
+
+"Address Deleted successfully" = "내 주소";
+
+"location not found" = "위치를 찾을 수 없음";
+
+"Rating added successfully" = "등급이 성공적으로 추가됨";
+
+"Restaurant Information" = "레스토랑 정보";
+
+"Have not you recieved the code?" = "코드를 받지 못하셨습니까?";
+
+"Resend" = "재전송";
+
+"Remaining time:" = "남은 시간:";
+
+"min" = "최소";
+
+"sec" = "초";
+
+"Incorrect code." = "잘못된 코드입니다.";
+
+"Incorrect OTP" = "잘못된 OTP";
+
+"For continue you need to accept" = "계속하려면 수락해야 합니다";
+
+// 3월 14일
+
+"Total Cart:" = "총 장바구니:";
+
+"Order ID:" = "주문 ID:";
+
+"Pre Order ID:" = "선주문 ID:";
+
+"Completed" = "완료";
+
+"My Favourite" = "내 즐겨찾기";
+
+"Offer" = "제공";
+
+"Menu" = "메뉴";
+
+"Load More" = "더 불러오기";
+
+"My Cart" = "내 카트";
+
+"Apply Offer" = "제안 적용";
+
+"Enter email address" = "이메일 주소 입력";
+
+"Order Details" = "주문 세부 정보";
+
+"Order placed successfully" = "주문 완료";
+
+"Products" = "제품";
+
+"Item Detail" = "항목 세부 정보";
+
+"Phone Number :" = "전화번호:";
+
+"Tax Number:" = "세금 번호:";
+
+"Your Fee" = "귀하의 수수료";
+
+"Rate user and finish" = "사용자를 평가하고 끝내기";
+
+"My Earnings" = "내 수입";
+
+"Notifications" = "알림";
+
+"Withdraw Wallet Amount" = "지갑 금액 인출";
+
+"Assigned Driver" = "할당된 드라이버";
+
+"Give Rating" = "평가 부여";
+
+"Add Details" = "세부 사항 추가";
+
+"Pending" = "보류 중";
+
+"Preparing" = "준비중";
+
+"Ready" = "준비";
+
+"Track Order" = "주문 추적";
+
+"Rejected" = "거절됨";
+
+"Not Paid" = "미지급";
+
+"Name" = "이름";
+
+"Address:" = "주소:";
+
+"Mobile:" = "모바일:";
+
+"Restaurant" = "레스토랑";
+
+"Available Driver" = "사용 가능한 드라이버";
+
+"km away" = "km 떨어져";
+
+"Please select address" = "주소를 선택하세요";
+
+"Enter your business code" = "비즈니스 코드 입력";
+
+// 새로운
+
+"Time" = "시간";
+
+"Find The Perfect Workout Buddy" = "완벽한 운동 친구 찾기";
+
+"Upload Your Daily Feed" = "일일 피드 업로드";
+
+"Buy and Sell Equipment" = "장비 구매 및 판매";
+
+"Subscription" = "구독";
+
+"Skip" = "건너뛰기";
+
+"Next" = "다음";
+
+"Start" ="시작";
+
+"Your account is created successfully, we have sent one confirmation mail to your mail id so please confirm and login in app." = "귀하의 계정이 성공적으로 생성되었습니다. 귀하의 메일 ID로 확인 메일을 하나 보냈으니 앱에서 확인하고 로그인하십시오.";
+
+"My Feed" = "내 피드";
+
+"Friends" = "친구";
+
+"Buddies" = "친구";
+
+"Journal Activity" = "저널 활동";
+
+"Subscription" = "구독";
+
+"Refer Friend" = "친구 추천";
+
+"Settings" = "설정";
+
+"Blocked Users" = "차단된 사용자";
+
+"Report Users" = "사용자 보고";
+
+"Find Me" = "나를 찾아줘";
+
+"Who can see your profile" = "누가 귀하의 프로필을 볼 수 있습니까?";
+
+"Give Feedback" = "피드백 제공";
+
+"Contact Us" = "연락처";
+
+"Product added successfully" = "제품이 성공적으로 추가되었습니다";
+
+"Product updated successfully" = "제품 업데이트 성공";
+
+"Are you sure you want to delete this item" = "정말로 이 항목을 삭제하시겠습니까?";
+
+"Transaction is successfull" = "거래가 성공했습니다";
+
+"Feedback sent successfully" = "피드백을 성공적으로 보냈습니다";
+
+"Activity added successfully" = "활동이 성공적으로 추가됨";
+
+"Activity updated successfully" = "활동이 성공적으로 업데이트되었습니다";
+
+"Notification" = "알림";
+
+"Reset password mail has sent to your registered mailId" = "비밀번호 재설정 메일이 등록된 mailId로 발송되었습니다";
+
+"Invalid Price" = "잘못된 가격";
+
+"Update Post" = "게시물 업데이트";
+
+"Delete Account" = "계정 삭제";
+
+"We sent your current password to your mail , please check and login again" = "현재 암호를 메일로 보냈으니 확인하고 다시 로그인하십시오";
+
+"Are you sure to delete your account?" = "계정을 삭제하시겠습니까?";
+
+"Are you sure you want to delete your account?" = "정말로 계정을 삭제하시겠습니까?";
+
+"Update Activity" = "활동 업데이트";
+
+"Your location is hidden to other users." = "당신의 위치는 다른 사용자에게 숨겨져 있습니다.";
+
+"For continue you need to accept Terms and Conditions" = "계속하려면 이용약관에 동의해야 합니다";
+
+"You must agree to our term and condition" = "귀하는 반드시 우리의 이용 약관에 동의해야 합니다";
+
+"Blocked Users" = "차단된 사용자";
+
+"Report Users" = "사용자 보고";
+
+"Send Feedback" = "피드백 보내기";
+
+"Feedback send successfully" = "피드백 전송 성공";
+
+"Contact Us" = "연락처";
+
+"Comment" = "댓글";
+
+"Comments" = "댓글";
+
+"Liked by" = "좋아요";
+
+"Months" = "월";
+
+"This is your current active plan." = "현재 활성 계획입니다.";
+
+"Your location is hidden to other users." = "당신의 위치는 다른 사용자에게 숨겨져 있습니다.";
+
+"Something went wrong with map" = "뭔가 잘못된 지도와 함께";
+
+"Reported to Admin" = "관리자에게 보고됨";
+
+"Report" = "신고";
+
+"Total:" = "합계:";
+
+"Card in invalid!" = "카드가 유효하지 않습니다!";
+
+"Card is incomplete" = "카드가 불완전함";
+
+"Photos uploaded successfully" = "사진이 성공적으로 업로드되었습니다";
+
+"Post added successfully" = "Post added successfully";
+
+"Post updated successfully" = "Post updated successfully";
